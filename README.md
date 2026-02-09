@@ -87,8 +87,3 @@ Michael Estiven Reyes Escobar
 GitHub: @maikreyes
 
 Este proyecto es parte de mi camino de aprendizaje en desarrollo backend.
-
-
-### Notas sobre el contenido:
-1.  **Comando de ejecución**: En la sección "Pasos para ejecutar", he puesto `go run ./cmd/number-guessing-game`. Dado que tienes una carpeta `cmd`, es una convención común en Go tener el `main` dentro de una subcarpeta con el nombre del proyecto (ej. `cmd/number-guessing-game/main.go`). Si tu `main.go` está directamente en `cmd/`, puedes ajustar esa línea a `go run ./cmd/main.go`.
-2.  **Autor**: He incluido tu nombre completo y usuario basándome en la licencia que ya tienes en el repositorio para darle un toque más personal y profesional.
